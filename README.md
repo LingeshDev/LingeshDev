@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+Hi there! I’m Lingeshwaran G, a Computer Science Engineering graduate with a passion for data and analytics. My journey has been driven by a curiosity to uncover patterns and insights that empower decision-making. 🌟<br><br>You need someone who:<br><br>➠ Holds a B.E. in Computer Science Engineering with a strong academic background and practical experience? 🎓<br>➠ Excels in solving complex problems and creating impactful data visualizations? 🧩<br>➠ Brings hands-on experience in Power BI and a proven track record in data analysis? 🚀<br><br>✔ Why Work With Me?<br><br>I combine technical expertise with a deep enthusiasm for data. My experience spans over 20 Power BI reports and internships in data science, where I focus on delivering actionable insights through compelling visualizations. I’m committed to helping organizations harness their data for strategic advantage. 🔍<br><br>✔ Highlights of My Journey:<br><br>➠ Developed 20+ Power BI reports, delivering high-impact dashboards and insights. 📈<br>➠ Completed internships at Accenture and Shiash Info Solution Pvt Ltd, gaining hands-on experience in data analysis, machine learning, and data visualization. 🧑‍💻<br>➠ Graduated with an 8.2 CGPA from Dhanalakshmi Srinivasan Institute of Technology. 🎓<br>➠ Experienced in exploratory data analysis and optimizing data pipelines. 🔎<br><br>✔ What I Offer<br><br>➠ Power BI Mastery: Crafting dashboards and reports that drive business decisions. 🛠️<br>➠ Data Analysis Expertise: Skilled in exploring data, identifying trends, and translating findings into actionable strategies. 📉<br>➠ Creative Problem-Solving: Tackling challenges with innovative and effective solutions. 💡<br><br>✔ Explore My Work<br><br>Visit my portfolio to see how I’ve transformed data into strategic insights across various projects. 🌐<br><br>✔ Let’s Collaborate<br><br>If you’re looking for a data enthusiast who can bring clarity and impact to your data challenges, let’s connect! 🤝<br><br>📞 Contact Me<br><br>Email: hello.lingeshdev@gmail.com ✉️<br>Mobile: (+91) 6379-164-104 📱<br>Website: lingeshdev.netlify.app/
 
-<!--
-**LingeshDev/LingeshDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/msdlinges.waran/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_l.i.n.g.e.s.h__?igsh=amhjN3k4MmNvenJ0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lingeshdev/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LingeshDev&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LingeshDev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LingeshDev&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=LingeshDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=LingeshDev&icon=2&color=7)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
